@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T16:10:58 IST" name="Default suite" finished-at="2024-10-25T16:12:46 IST" duration-ms="108213">
+    <groups>
+    </groups>
+    <test started-at="2024-10-25T16:10:58 IST" name="Default test" finished-at="2024-10-25T16:12:46 IST" duration-ms="108213">
+      <class name="Tests.CountWorldPopulation">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:10:58 IST" name="setUpMethod" finished-at="2024-10-25T16:11:12 IST" duration-ms="13446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="getCurrentWorldPupulation()[pri:1, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:11:12 IST" name="getCurrentWorldPupulation" finished-at="2024-10-25T16:11:22 IST" duration-ms="10579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCurrentWorldPupulation -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:11:22 IST" name="tearDownMethod" finished-at="2024-10-25T16:11:22 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:11:22 IST" name="setUpMethod" finished-at="2024-10-25T16:11:33 IST" duration-ms="10441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="getTodaysPopoulation()[pri:2, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:11:33 IST" name="getTodaysPopoulation" finished-at="2024-10-25T16:12:04 IST" duration-ms="31263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTodaysPopoulation -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:12:04 IST" name="tearDownMethod" finished-at="2024-10-25T16:12:04 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:12:04 IST" name="setUpMethod" finished-at="2024-10-25T16:12:15 IST" duration-ms="10497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="getThisYearsPopulation()[pri:3, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:12:15 IST" name="getThisYearsPopulation" finished-at="2024-10-25T16:12:46 IST" duration-ms="31230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getThisYearsPopulation -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.CountWorldPopulation@7d0b7e3c]" started-at="2024-10-25T16:12:46 IST" name="tearDownMethod" finished-at="2024-10-25T16:12:46 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- Tests.CountWorldPopulation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
